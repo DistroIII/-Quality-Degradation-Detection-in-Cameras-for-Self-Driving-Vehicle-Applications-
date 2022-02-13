@@ -1,10 +1,3 @@
 # mybot_ws
-URDF model for Gazebo integrated with ROS
-
-This repository has several branches. Please checkout the appropriate branch for your needs. <br>
-1) <strong>base</strong> - create simple URDF model <br>
-2) <strong>base_sensors</strong> - add sensors to robot <br>
-3) <strong>navigation</strong> - enable autonomous navigation (now updated for [ROS Melodic Morenia](http://wiki.ros.org/melodic))
-4) the folder names "codes" contains the CNN algorithm
-For more information on running the code:  <br>
-http://moorerobots.com/blog/post/6
+This gazebo simulated robot model URDF model for Gazebo integrated with ROS was made using the repo from moorerobots. Please chaeck out their website here. http://moorerobots.com/blog/post/6
+The robot is being used for the purpose of testing CNN and GANS Algorithms.
